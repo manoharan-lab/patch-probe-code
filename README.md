@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/979468628.svg)](https://doi.org/10.5281/zenodo.15364867)
+
 Code to accompany the paper Chiang, Timothy; Kimchi, Ofer; Dhaliwal, Herman K.;
 Villarreal, Daniel A.; Vasquez, Fernando F.; Manoharan, Vinothan; Brenner,
 Michael P; Garmann, Rees; "Measuring intramolecular connectivity in long RNA
