@@ -10,6 +10,9 @@ fluorescence intensities from a raw microarray image.
 `microarray_design` contains Matlab code to generate probe sequences and layouts
 for DNA microarrays.
 
+`automated_microarray_design.ipynb` is a Jupyter notebook that automates the
+design of DNA microarrays for RNA structure analysis.
+
 `patchprobe` is a python package for analysis of patch-probe microarray data.
 See the file `environment.yml` for instructions on how to set up the conda
 environment for running the code. See `example-analysis-notebook.ipynb` for a
